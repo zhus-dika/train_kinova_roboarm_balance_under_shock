@@ -5,3 +5,7 @@ Following template by Mathworks Team [Train SAC Agent for Ball Balance Control](
 ### Main scheme with shock to the base of the roboarm
 
 ![alt text](https://github.com/zhus-dika/train_kinova_roboarm_balance_under_shock/blob/main/graph_plots/scheme_add_shock.png)
+
+### Results for 4 initial positions of the ball
+
+![Alt Text](https://github.com/zhus-dika/train_kinova_roboarm_balance_under_shock/blob/main/graph_plots/results_vertical_shock.gif)
